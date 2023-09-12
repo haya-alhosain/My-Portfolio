@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.ecb90380.css",
-    "main.js": "/My-Portfolio/static/js/main.63684610.js",
+    "main.js": "/My-Portfolio/static/js/main.5384f1b4.js",
     "static/js/787.128fc6e9.chunk.js": "/My-Portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/Tourly.png": "/My-Portfolio/static/media/Tourly.b26cd475468cc9ab06d5.png",
     "static/media/staybnb.png": "/My-Portfolio/static/media/staybnb.9a3b6053c5c8037d8d54.png",
@@ -13,16 +13,16 @@
     "static/media/orebi.png": "/My-Portfolio/static/media/orebi.7be19dc0598b71fefddf.png",
     "static/media/cybrog.png": "/My-Portfolio/static/media/cybrog.2af3a42602cc51f6298d.png",
     "static/media/social media app.png": "/My-Portfolio/static/media/social media app.0da5663f8b5939871f96.png",
-    "static/media/CV.pdf": "/My-Portfolio/static/media/CV.792c44ea22d19983c516.pdf",
+    "static/media/CV.pdf": "/My-Portfolio/static/media/CV.95bf6fd2f26baf788027.pdf",
     "static/media/TodoApp.png": "/My-Portfolio/static/media/TodoApp.78a72ef5dc6f3c54782e.png",
     "static/media/Weather App.png": "/My-Portfolio/static/media/Weather App.f035cd620bbc269ea75a.png",
     "index.html": "/My-Portfolio/index.html",
     "main.ecb90380.css.map": "/My-Portfolio/static/css/main.ecb90380.css.map",
-    "main.63684610.js.map": "/My-Portfolio/static/js/main.63684610.js.map",
+    "main.5384f1b4.js.map": "/My-Portfolio/static/js/main.5384f1b4.js.map",
     "787.128fc6e9.chunk.js.map": "/My-Portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecb90380.css",
-    "static/js/main.63684610.js"
+    "static/js/main.5384f1b4.js"
   ]
 }
