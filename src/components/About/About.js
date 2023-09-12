@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import Skills from "./Skills";
-import HayaCv from "../../Haya-CV.pdf";
+import HayaCv from "../../CV.pdf";
 import Knowledge from "./Knowlede";
 import Exprins from "./Exprins";
 import Title from "../global/Title";
@@ -143,7 +143,7 @@ function About() {
             <a href={HayaCv} title="CV" download="Haya's Cv-download">
               <button
                 className=" font-Mulish w-fit px-8 inline-block   font-normal py-4 bg-black text-white dark:bg-white  dark:text-black"
-                style={{ background: "lightcoral" }}
+              
               >
                 Download CV
               </button>

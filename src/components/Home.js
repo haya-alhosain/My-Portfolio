@@ -27,7 +27,6 @@ function Home() {
               style={{
                 fontSize: "40px",
                 marginBottom: "15px",
-                color: "lightcoral",
               }}
             >
               {" "}

@@ -107,7 +107,6 @@ function Contact() {
                 <div className="mt-10  flex    sm:justify-stretch">
                   <a href="https://t.me/Haya_Alhosain">
                     <button
-                      style={{ background: "lightcoral" }}
                       type="submit"
                       value={"send"}
                       className="block  relative send w-fit duration-500  hover:tracking-widest  bg-black dark:bg-neutral-50 dark:text-black  px-9  py-4 text-center   text-base   font-medium text-white shadow-lg font-Mulish   focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
