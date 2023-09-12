@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Mulish:wght@200;300;400;500;600;700;800;900&display=swap");
+body {
+  margin: 0;
+
+  font-family: "Mulish", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.centerT {
+  transform: translateY(-50%) !important;
+}
+@media only screen and (min-width: 1024px) {
+  .allpage {
+    margin-left: 248.812px;
+  }
+}
+.map-container {
+  height: 400px;
+}
+.visibles {
+  visibility: inherit;
+}
+.mapboxgl-ctrl-attrib-inner {
+  display: none;
+}
+.mapboxgl-canvas {
+  width: 100% !important;
+}
+
+.btn-scrollTop {
+  position: fixed;
+  bottom: 40px;
+
+  z-index: 1;
+  cursor: pointer;
+
+  border: none;
+  opacity: 0.7;
+}
+
+.btn:hover.icon {
+  margin-bottom: 10px;
+}
+.no {
+  position: inherit !important;
+}
